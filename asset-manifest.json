@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zakariaouali/ytbClone.git/static/css/main.feb854ad.css",
+    "main.js": "/zakariaouali/ytbClone.git/static/js/main.d449f39f.js",
+    "index.html": "/zakariaouali/ytbClone.git/index.html",
+    "main.feb854ad.css.map": "/zakariaouali/ytbClone.git/static/css/main.feb854ad.css.map",
+    "main.d449f39f.js.map": "/zakariaouali/ytbClone.git/static/js/main.d449f39f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb854ad.css",
+    "static/js/main.d449f39f.js"
+  ]
+}
